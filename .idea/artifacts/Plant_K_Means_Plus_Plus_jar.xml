@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Plant_K_Means_Plus_Plus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Plant_K_Means_Plus_Plus_jar</output-path>
+    <root id="archive" name="Plant_K_Means_Plus_Plus.jar">
+      <element id="module-output" name="Plant_K_Means_Plus_Plus" />
+    </root>
+  </artifact>
+</component>
